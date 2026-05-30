@@ -12,69 +12,25 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/ObNTQMUrNpgZa/giphy.gif" width="30px"/> About Me
+## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+I'm a **Data Analyst** graduating in April 2026 from Hindusthan Institute of Technology, Chennai. I specialize in building **ETL pipelines**, designing **interactive Power BI dashboards**, and transforming complex datasets into actionable business intelligence.
 
-```python
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Karthick Raja"
-        self.location = "Chennai, Tamil Nadu, India"
-        self.degree = "B.E. Computer Science and Engineering"
-        self.graduating = "April 2026"
-        self.cgpa = 7.2
-        
-    def tech_stack(self):
-        return {
-            "languages": ["SQL", "Python"],
-            "data_tools": ["Power BI", "Excel", "Streamlit"],
-            "libraries": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-            "databases": ["MySQL"],
-            "version_control": ["Git", "GitHub"]
-        }
-    
-    def core_skills(self):
-        return ["ETL Pipelines", "EDA", "Data Cleaning", "Power BI Dashboards", 
-                "DAX", "Power Query", "KPI Reporting", "Business Intelligence"]
-    
-    def currently_learning(self):
-        return ["Advanced DAX Measures", "Real-time Analytics"]
-    
-    def fun_fact(self):
-        return "I love turning messy data into beautiful, actionable dashboards! 📊"
-    
-    def motto(self):
-        return "Data doesn't lie—it just needs the right interpreter."
+With hands-on experience processing **100K+ records**, developing **40+ SQL queries**, and analyzing **$2.3M+ in transaction data**, I'm passionate about turning raw data into clear, strategic decisions. My expertise spans the full analytics lifecycle—from data ingestion and validation to dashboard architecture and KPI reporting.
 
-# Let's analyze some data! 🚀
-```
+**📍 Location:** Chennai, Tamil Nadu | **🎓 CGPA:** 7.2/10 | **📅 Graduating:** April 2026
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Expertise
 
-### Languages
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Languages:** ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Data & BI Tools
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-00A4EF?style=flat-square&logo=powerbi&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-1F497D?style=flat-square&logo=powerbi&logoColor=white)
+**Data & BI:** ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-00A4EF?style=flat-square&logo=powerbi&logoColor=white) ![Power Query](https://img.shields.io/badge/Power%20Query-1F497D?style=flat-square&logo=powerbi&logoColor=white)
 
-### Libraries & Frameworks
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E8B9E?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+**Libraries:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2E8B9E?style=flat-square&logo=python&logoColor=white)
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**Tools & Databases:** ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
@@ -130,21 +86,15 @@ class DataAnalyst:
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
-<details>
-<summary><b>Data Analyst Intern</b> @ <a href="https://besant.in/">Besant Technologies</a> | <code>Feb 2026</code> | Chennai, TN</summary>
+**Data Analyst Intern** @ [Besant Technologies](https://besant.in/) | Chennai, TN | Feb 2026
 
-> **Tech Stack:** Python • Pandas • MySQL • SQL • Power BI • DAX • Power Query • Excel
-
-- Cleaned, transformed, and validated **50K+ records** using Python (Pandas) and Excel to improve data quality and reporting accuracy
-- Performed **ETL operations** including data extraction, transformation, and loading on structured datasets
-- Developed **SQL queries** using joins, aggregations, filtering, and subqueries for reporting and analytical requirements
-- Designed **interactive Power BI dashboards** using DAX, Power Query, slicers, drill-through, and KPI cards
-- Conducted **exploratory data analysis (EDA)** and trend analysis to identify patterns and business insights
-- Automated repetitive data processing tasks using Python, improving reporting efficiency by **40%**
-
-</details>
+- Processed and validated **50,000+ records** using Python (Pandas) and Excel, achieving **99.8% data accuracy**
+- Developed **40+ SQL queries** for KPI reporting, latency analysis, and automated alert generation
+- Designed **interactive Power BI dashboards** with DAX, Power Query, slicers, and drill-through capabilities
+- Conducted **exploratory data analysis (EDA)** to identify patterns and derive actionable business insights
+- Automated repetitive data tasks using Python, improving reporting efficiency by **40%**
 
 ---
 
@@ -181,22 +131,9 @@ class DataAnalyst:
 
 ## 📚 Currently Learning
 
-```
-🧱 Advanced Analytics & Automation
-  ├─ Advanced DAX Measures for Complex Business Logic
-  ├─ Real-time Analytics & Streaming Data
-  └─ Power BI Performance Optimization
-
-🔧 Data Engineering Concepts
-  ├─ Incremental Data Loading Strategies
-  ├─ Cloud Data Platforms (Azure, BigQuery)
-  └─ Data Governance & Quality Frameworks
-
-📊 Business Intelligence
-  ├─ Predictive Analytics & Forecasting
-  ├─ Automated Reporting Solutions
-  └─ Executive Dashboard Design
-```
+- **Advanced Analytics** — Complex DAX measures, real-time analytics, predictive modeling
+- **Data Engineering** — Cloud platforms (Azure, BigQuery), incremental data loads, data governance
+- **BI Strategy** — Executive dashboard design, automated reporting, performance optimization
 
 ---
 
